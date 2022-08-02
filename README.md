@@ -3,4 +3,4 @@ This project (written in Python) was a submission for a CodeCombat tournament th
 
 Tournament: https://codecombat.com/play/ladder/ace-of-coders
 My username is "awesomeguyisawesome".
-![image](https://user-images.githubusercontent.com/104748091/182286461-1dd46e0e-c20c-4a4e-8a3a-b3f69e204b3d.png)
+![image](https://user-images.githubusercontent.com/104748091/182286574-06d0e31f-13ea-44bc-858e-517b8fc3053f.png)
